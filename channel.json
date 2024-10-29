@@ -8,7 +8,7 @@
     {
         "name": "Amazon",
         "url" : "https://www.amazon.com/",
-        "img_url": "amazon.svg",
+        "img_url": "https://litcommerce.com/wp-content/uploads/2024/09/Amazon-300x50-1.svg",
         "channel_type":[
             "Marketplaces"
         ]
@@ -16,7 +16,7 @@
     {
         "name": "FaceBonk",
         "url" : "https://www.facebook.com/",
-        "img_url": "facebook.svg",
+        "img_url": "https://litcommerce.com/wp-content/uploads/2024/09/Facebook-300x50-1.svg",
         "channel_type":[
             "Social channels"
         ]
@@ -24,7 +24,7 @@
     {
         "name": "Google Shopping",
         "url" : "https://www.google.com/",
-        "img_url": "google.svg",
+        "img_url": "https://litcommerce.com/wp-content/uploads/2024/09/Google-Merchant-300x50-1.svg",
         "channel_type":[
             "Comparison websites"
         ]
@@ -32,7 +32,7 @@
     {
         "name": "Google Shopping",
         "url" : "https://www.google.com/",
-        "img_url": "google.svg",
+        "img_url": "https://litcommerce.com/wp-content/uploads/2024/09/Google-Merchant-300x50-1.svg",
         "channel_type":[
             "Comparison websites"
         ]
@@ -40,7 +40,7 @@
     {
         "name": "Google Shopping",
         "url" : "https://www.google.com/",
-        "img_url": "google.svg",
+        "img_url": "https://litcommerce.com/wp-content/uploads/2024/09/Google-Merchant-300x50-1.svg",
         "channel_type":[
             "Comparison websites"
         ]
@@ -48,7 +48,7 @@
     {
         "name": "Google Shopping",
         "url" : "https://www.google.com/",
-        "img_url": "google.svg",
+        "img_url": "https://litcommerce.com/wp-content/uploads/2024/09/Google-Merchant-300x50-1.svg",
         "channel_type":[
             "Comparison websites"
         ]
