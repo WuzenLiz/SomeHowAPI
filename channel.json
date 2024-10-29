@@ -1,0 +1,58 @@
+{   
+    "channel_type":[
+        "Marketplaces",
+        "Social channels",
+        "Comparison websites"
+    ],
+    "channel_list":[
+    {
+        "name": "Amazon",
+        "url" : "https://www.amazon.com/",
+        "img_url": "amazon.svg",
+        "channel_type":[
+            "Marketplaces"
+        ]
+    },
+    {
+        "name": "FaceBonk",
+        "url" : "https://www.facebook.com/",
+        "img_url": "facebook.svg",
+        "channel_type":[
+            "Social channels"
+        ]
+    },
+    {
+        "name": "Google Shopping",
+        "url" : "https://www.google.com/",
+        "img_url": "google.svg",
+        "channel_type":[
+            "Comparison websites"
+        ]
+    },
+    {
+        "name": "Google Shopping",
+        "url" : "https://www.google.com/",
+        "img_url": "google.svg",
+        "channel_type":[
+            "Comparison websites"
+        ]
+    },
+    {
+        "name": "Google Shopping",
+        "url" : "https://www.google.com/",
+        "img_url": "google.svg",
+        "channel_type":[
+            "Comparison websites"
+        ]
+    },
+    {
+        "name": "Google Shopping",
+        "url" : "https://www.google.com/",
+        "img_url": "google.svg",
+        "channel_type":[
+            "Comparison websites"
+        ]
+    }
+    
+]
+}
